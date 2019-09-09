@@ -183,6 +183,7 @@ td:nth-child(2) {
 	background-color: #ffffff;
 }
 
+#profilePic {border-radius:50%}
 
 
 /* Blog Date*/

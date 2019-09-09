@@ -1,4 +1,4 @@
-div.divPublication {
+uist2019_final_version.pdfdiv.divPublication {
 	/*background-color:black;
     color:white;
     margin:20px;
@@ -38,7 +38,7 @@ div.bibtex {
 
 .divTeaser {
   width: 200px;
-  height: 200px;
+  /*height: 200px;*/
   float: left;
   overflow: hidden;
   background:#FFF;
